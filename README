@@ -1,0 +1,14 @@
+Tyler Arseneault
+5032106
+
+December 1, 2014
+
+Information: Program will simulate memory by storing integers by using a created class called Memory. This folder will include a header file called memory.h for the class definition, a .cpp file called mememory.cpp which will contain the class, and a file called driver.cpp which runs the class to test it. This Lab takes the class designed in Lab Assignment 4, and adds a few tweaks, such as some new overloaded operators, and a new driver that tests these operators.
+
+Files Included: makefile, README, memory.h, memory.cpp, driver.cpp
+
+Step 1: Change the directory in terminal to "Lab5"
+Step 2: In Terminal, type make to compile the program.
+Step 3: In Terminal, type "./prog" to run the program.
+
+Github URL: https://github.com/TylerA73/Lab5
